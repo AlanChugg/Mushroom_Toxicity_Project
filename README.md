@@ -1,2 +1,2 @@
 # Mushroom_Toxicity_Project
-This Jupyter notebook application is capable of predicting mushroom toxicity with high accuracy.
+This Jupyter notebook application is capable of predicting mushroom toxicity with high accuracy. Please refer to the README file for more information.
